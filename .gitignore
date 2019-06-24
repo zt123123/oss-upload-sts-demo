@@ -1,3 +1,4 @@
 /oss-client/node_modules/
+/oss-server/node_modules/
 
 /**/*/.DS_Store
